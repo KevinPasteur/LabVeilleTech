@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kévin Pasteur</title>
-    <link>https://example.org/posts/</link>
+    <link>https://kevinpasteur.github.io/LabVeilleTech/posts/</link>
     <description>Recent content in Posts on Kévin Pasteur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>© 2024 Kévin Pasteur</copyright>
-    <lastBuildDate>Fri, 26 Jan 2024 16:56:25 +0100</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jan 2024 16:56:25 +0100</lastBuildDate><atom:link href="https://kevinpasteur.github.io/LabVeilleTech/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Avez-vous vérifié ça avant de déployer ?</title>
-      <link>https://example.org/posts/before-deploy/</link>
+      <link>https://kevinpasteur.github.io/LabVeilleTech/posts/before-deploy/</link>
       <pubDate>Fri, 26 Jan 2024 16:56:25 +0100</pubDate>
       
-      <guid>https://example.org/posts/before-deploy/</guid>
+      <guid>https://kevinpasteur.github.io/LabVeilleTech/posts/before-deploy/</guid>
       <description>Résumé #Nous avons tous ressenti cette appréhension de déployer notre site web, espérant que tout se déroule bien.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/before-deploy/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kevinpasteur.github.io/LabVeilleTech/posts/before-deploy/featured.jpg" />
     </item>
     
     <item>
       <title>Est-ce que c&#39;est (vraiment) bien le mobile-first CSS ?</title>
-      <link>https://example.org/posts/mobile-first/</link>
+      <link>https://kevinpasteur.github.io/LabVeilleTech/posts/mobile-first/</link>
       <pubDate>Thu, 25 Jan 2024 19:49:13 +0100</pubDate>
       
-      <guid>https://example.org/posts/mobile-first/</guid>
+      <guid>https://kevinpasteur.github.io/LabVeilleTech/posts/mobile-first/</guid>
       <description>Résumé #Si dans ma jeune carrière de développeur il y a bien un truc que l&amp;rsquo;on m&amp;rsquo;a toujours dit, c&amp;rsquo;est de penser l&amp;rsquo;approche en mobile first 📱.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/mobile-first/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kevinpasteur.github.io/LabVeilleTech/posts/mobile-first/featured.webp" />
     </item>
     
     <item>
       <title>Je suis un imposteur</title>
-      <link>https://example.org/posts/impostor/</link>
+      <link>https://kevinpasteur.github.io/LabVeilleTech/posts/impostor/</link>
       <pubDate>Thu, 25 Jan 2024 19:46:09 +0100</pubDate>
       
-      <guid>https://example.org/posts/impostor/</guid>
+      <guid>https://kevinpasteur.github.io/LabVeilleTech/posts/impostor/</guid>
       <description>Résumé #Et si je vous disais que j&amp;rsquo;étais un imposteur 😓 ?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/impostor/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kevinpasteur.github.io/LabVeilleTech/posts/impostor/featured.jpg" />
     </item>
     
     <item>
       <title>Tendance du développement Web en 2024</title>
-      <link>https://example.org/posts/trends-2024/</link>
+      <link>https://kevinpasteur.github.io/LabVeilleTech/posts/trends-2024/</link>
       <pubDate>Thu, 25 Jan 2024 19:36:19 +0100</pubDate>
       
-      <guid>https://example.org/posts/trends-2024/</guid>
+      <guid>https://kevinpasteur.github.io/LabVeilleTech/posts/trends-2024/</guid>
       <description>Résumé #Chaque année, le monde du développement web se renouvelle, apportant son lot de technologies et méthodes innovantes 🚀.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/trends-2024/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kevinpasteur.github.io/LabVeilleTech/posts/trends-2024/featured.jpg" />
     </item>
     
     <item>
       <title>Comment être au courant des tendances du web ?</title>
-      <link>https://example.org/posts/systeme-ecoute/</link>
+      <link>https://kevinpasteur.github.io/LabVeilleTech/posts/systeme-ecoute/</link>
       <pubDate>Thu, 25 Jan 2024 18:21:47 +0100</pubDate>
       
-      <guid>https://example.org/posts/systeme-ecoute/</guid>
+      <guid>https://kevinpasteur.github.io/LabVeilleTech/posts/systeme-ecoute/</guid>
       <description>Introduction #Dans le monde dynamique du développement web 🌐, être constamment informé des dernières tendances et innovations est essentiel.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/systeme-ecoute/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kevinpasteur.github.io/LabVeilleTech/posts/systeme-ecoute/featured.jpeg" />
     </item>
     
     <item>
       <title>Mon expérimentation</title>
-      <link>https://example.org/posts/experimentation/</link>
+      <link>https://kevinpasteur.github.io/LabVeilleTech/posts/experimentation/</link>
       <pubDate>Thu, 25 Jan 2024 18:21:47 +0100</pubDate>
       
-      <guid>https://example.org/posts/experimentation/</guid>
+      <guid>https://kevinpasteur.github.io/LabVeilleTech/posts/experimentation/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/experimentation/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kevinpasteur.github.io/LabVeilleTech/posts/experimentation/featured.png" />
     </item>
     
   </channel>

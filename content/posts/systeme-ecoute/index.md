@@ -27,7 +27,7 @@ Je consacre également du temps à lire des blogs et des sites spécialisés �
 Des plateformes comme [Smashing Magazine](https://www.smashingmagazine.com/), [dev.to](https://dev.to/) ou même [A List Apart](https://alistapart.com/) sont mes références pour avoir  les meilleures pratiques du moment.
 
 ### Forums
-Comme ne pas parler de [Stack Overflow](https://stackoverflow.com/), qui est essentiel dans ma routine d'écoute 🗨️. 
+Comment ne pas parler de [Stack Overflow](https://stackoverflow.com/), qui est essentiel dans ma routine d'écoute 🗨️. 
 
 C'est comme un marché animé où les développeurs se réunissent pour échanger des idées, résoudre des problèmes et partager leurs connaissances.
 

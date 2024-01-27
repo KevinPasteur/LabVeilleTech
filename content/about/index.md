@@ -6,7 +6,7 @@ draft = false
 
 ## Qui suis-je ?
 
-![](/kevin_pasteur.jpg)
+![](images/kevin_pasteur.jpg)
 
 Je suis un étudiant de 25 ans, actuellement en 3ème année d'ingénierie des médias à la HEIG-VD 🎓.
 
@@ -25,3 +25,13 @@ J'ai choisi Hugo pour mon blog parce qu'il est facile à utiliser et rapide pour
 Son intégration avec des outils comme Github Pages rend tout le processus de publication  plus simple 🚀.
 
 ## Mon Ikigai
+
+![](images/ikigai_kevin.png)
+
+Comme le révèle mon ikigai, je me définis à travers plusieurs vocations : Développeur fullstack 💻, Créateur de contenu 🎥, et Entrepreneur 👔.
+
+L'intérêt de ces domaines est qu'ils s'entremêlent aisément. Par exemple, un entrepreneur pourrait lancer une agence web 🌐, ou un créateur de contenu pourrait réaliser des vidéos sur le développement web 📹.
+
+Dans ce blog, je me concentre sur l'un des piliers de mon ikigai : le développement web. Pour moi, ce domaine a toujours été une vocation, un rêve de jeunesse quand, en tant que jeune gamer, je souhaitais créer mes propres jeux 🕹️ – quel petit gamer n'en a pas rêvé ?
+
+Dans mon "Qui suis-je", j'ai évoqué ce qui me rattache à ce domaine, mais c'est surtout cet esprit d'aventure : chaque nouveau projet représente un défi inédit 🎯 et l'opportunité de croiser le chemin de nouvelles personnes 👥.

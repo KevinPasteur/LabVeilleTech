@@ -8,7 +8,7 @@ draft = false
 
 Et si je vous disais que j'étais un imposteur 😓 ?
 
-David Walsh aborde un problème auquel beaucoup de développeurs web sont confrontés, le syndrome de l'imposteur. 
+Dans cet article de David Walsh, il aborde un problème auquel beaucoup de développeurs web sont confrontés, le syndrome de l'imposteur. 
 
 C'est ce sentiment persistant que nous ne sommes pas à la hauteur, que quelqu'un va un jour découvrir notre petit secret.
 

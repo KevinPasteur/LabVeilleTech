@@ -49,6 +49,16 @@
     </item>
     
     <item>
+      <title>(Expérimentation) MongoDB et Laravel enfin ensemble ?</title>
+      <link>https://kevinpasteur.github.io/LabVeilleTech/posts/experimentation/</link>
+      <pubDate>Thu, 25 Jan 2024 18:21:47 +0100</pubDate>
+      
+      <guid>https://kevinpasteur.github.io/LabVeilleTech/posts/experimentation/</guid>
+      <description>Contexte #Lors de mes études à la HEIG-VD, j&amp;rsquo;ai eu l&amp;rsquo;opportunité de suivre un cours optionnel sur l&amp;rsquo;Ethical Hacking, une aventure qui m&amp;rsquo;a plongé dans l&amp;rsquo;univers de la sécurité informatique 🛡️.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kevinpasteur.github.io/LabVeilleTech/posts/experimentation/featured.png" />
+    </item>
+    
+    <item>
       <title>Comment être au courant des tendances du web ?</title>
       <link>https://kevinpasteur.github.io/LabVeilleTech/posts/systeme-ecoute/</link>
       <pubDate>Thu, 25 Jan 2024 18:21:47 +0100</pubDate>
@@ -56,16 +66,6 @@
       <guid>https://kevinpasteur.github.io/LabVeilleTech/posts/systeme-ecoute/</guid>
       <description>Introduction #Dans le monde dynamique du développement web 🌐, être constamment informé des dernières tendances et innovations est essentiel.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kevinpasteur.github.io/LabVeilleTech/posts/systeme-ecoute/featured.jpeg" />
-    </item>
-    
-    <item>
-      <title>Mon expérimentation</title>
-      <link>https://kevinpasteur.github.io/LabVeilleTech/posts/experimentation/</link>
-      <pubDate>Thu, 25 Jan 2024 18:21:47 +0100</pubDate>
-      
-      <guid>https://kevinpasteur.github.io/LabVeilleTech/posts/experimentation/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kevinpasteur.github.io/LabVeilleTech/posts/experimentation/featured.png" />
     </item>
     
   </channel>
